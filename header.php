@@ -3,7 +3,7 @@
 					
 		<!-- Google / Search Engine Tags -->
 		<meta itemprop="name" content="Kleinscharig - Kleine kapsalon in Amersfoort">
-		<meta itemprop="description" content="Kleinscharig is een moderne kapsalon, voor dames & heren, in het Leusderkwartier in Amersfoort. ">
+		<meta itemprop="description" content="Kleinscharig is een moderne kapsalon in het Leusderkwartier in Amersfoort. ">
 		<meta itemprop="image" content="/img/kleinscharig-indebuurt.jpg">
 			
 		<!-- Facebook Meta Tags -->
@@ -35,11 +35,25 @@
 		<link rel="manifest" href="favicons/manifest.json?v=zXro7pjpNg">
 		<link rel="mask-icon" href="favicons/safari-pinned-tab.svg?v=zXro7pjpNg" color="#5bbad5">
 		<link rel="shortcut icon" href="favicons/favicon.ico?v=zXro7pjpNg">
-				
+				<script type="application/ld+json">
+		{
+		  "@context": "http://schema.org/",
+		  "@type": "HairSalon",
+		  "url": "https://www.kleinscharig.nl",
+		  "name": "Kleinscharig",
+		  "description": "Kleinscharig is een moderne kapsalon in het Leusderkwartier in Amersfoort.",
+		  "image": "https://www.kleinscharig.nl/img/team/kleinscharig-kapsalon-amersfoort-team-door.jpg",
+		  "address": "Woestijgerweg 135, 3817 SE Amersfoort",
+		  "openingHours":["Mo 08:00-20:30", "Tu 08:00-17:30", "We 08::00-17:30", "Fr 08::00-17:30"],
+		  "priceRange": "$$",
+		  "telephone": "+31337851431"	
+		}
+		</script>
+		
     </head>
     <body data-smooth-scroll-offset="77">
 	    <a id="start"></a>
-        <div class="nav-container" itemscope itemtype="http://schema.org/HairSalon">
+        <div class="nav-container">
             <nav class="bar bar-toggle bar--absolute">
                 <div class="container">
                     <div class="row">
