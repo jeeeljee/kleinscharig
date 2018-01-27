@@ -2,7 +2,9 @@
 <html lang="nl">
     <head>
         <meta charset="utf-8">
-        <title>Kleinscharig - Kleine kapsalon in Amersfoort</title>
+		<title>Kleinscharig - Kleine kapsalon in Amersfoort</title>
+		<meta name="description" content="Kleinscharig is een moderne kapsalon, voor dames & heren, in het Leusderkwartier in Amersfoort. Kom binnen en maak kennis met de vakkundigheid, persoonlijke aandacht en geniet van een lekkere kop koffie of thee.">
+
 	    
 	    <?php include'header.php' ?>
 
@@ -92,11 +94,11 @@
  
    	    <?php include'footer.php' ?>
 
-        <script src="js/jquery-3.1.1.min.js"></script>
-        <script src="js/isotope.min.js"></script>
-        <script src="js/parallax.js"></script>
-        <script src="js/smooth-scroll.min.js"></script>
-        <script src="js/scripts.js"></script>
+        <script async src="js/jquery-3.1.1.min.js"></script>
+        <script async src="js/isotope.min.js"></script>
+        <script async src="js/parallax.js"></script>
+        <script async src="js/smooth-scroll.min.js"></script>
+        <script async src="js/scripts.js"></script>
 
     </body>
 

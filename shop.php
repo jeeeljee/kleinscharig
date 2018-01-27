@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Kleinscharig - Shop</title>
+		<meta name="description" content="Unieke handgemaakte tassen en accessoires van PB14.">	
 	    
 	    <?php include'header.php' ?>
 	    

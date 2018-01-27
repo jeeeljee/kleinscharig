@@ -8,9 +8,6 @@
 	}
 }
 
-
-
-
 .menu-toggle {
 	background: rgba(255,255,255,0.3);
 }
@@ -26,9 +23,5 @@
 .boxed {
 	    padding: 0.857143em;
 }
-
-/* Map */
-.mapboxgl-popup-content {padding: 20px 20px 25px;}
-.mapboxgl-popup-close-button {display: none;}
 
 	

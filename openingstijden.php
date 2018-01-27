@@ -3,6 +3,8 @@
     <head>
         <meta charset="utf-8">
         <title>Kleinscharig - Openingstijden</title>
+		<meta name="description" content="De kapsalon is geopend op ma, di, wo, vr.">	
+        
 
 	    <?php include'header.php' ?>
 

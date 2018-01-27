@@ -3,6 +3,8 @@
     <head>
         <meta charset="utf-8">
         <title>Kleinscharig - Producten</title>
+		<meta name="description" content="Wij gebruiken producten van KEVIN.MURPHY. Eco-friendly en cruelty-free.">	
+        
 
 	    <?php include'header.php' ?>
 

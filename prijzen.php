@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Kleinscharig - Prijzen</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="Hier kan je meer informatie vinden over de prijzen.">	
 	    
 	    <?php include'header.php' ?>
 	    

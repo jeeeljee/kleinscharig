@@ -1,10 +1,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="theme-color" content="#ffffff">
-		
-		<!-- HTML Meta Tags -->
-		<title>Kleinscharig - Kleine kapsalon in Amersfoort</title>
-		<meta name="description" content="Kleinscharig is een moderne kapsalon, voor dames & heren, in het Leusderkwartier in Amersfoort. Kom binnen en maak kennis met de vakkundigheid, persoonlijke aandacht en geniet van een lekkere kop koffie of thee.">
-			
+					
 		<!-- Google / Search Engine Tags -->
 		<meta itemprop="name" content="Kleinscharig - Kleine kapsalon in Amersfoort">
 		<meta itemprop="description" content="Kleinscharig is een moderne kapsalon, voor dames & heren, in het Leusderkwartier in Amersfoort. ">
