@@ -1,0 +1,35 @@
+<IfModule mod_setenvif.c>
+# Set spammers referral as spambot
+SetEnvIfNoCase Referer darodar.com spambot=yes
+SetEnvIfNoCase Referer semalt.com spambot=yes
+SetEnvIfNoCase Referer buttons-for-website.com spambot=yes
+SetEnvIfNoCase Referer simple-share-buttons.com spambot=yes
+SetEnvIfNoCase Referer get-free-traffic-now.com spambot=yes
+SetEnvIfNoCase Referer free-share-buttons.com spambot=yes
+SetEnvIfNoCase Referer pornhub-forum.ga spambot=yes
+SetEnvIfNoCase Referer buy-cheap-online.info spambot=yes
+SetEnvIfNoCase Referer googlsucks.com spambot=yes
+SetEnvIfNoCase Referer site3.free-share-buttons.com spambot=yes
+
+## add as many as you find
+
+Order allow,deny
+Allow from all
+Deny from env=spambot
+</IfModule>
+
+ErrorDocument 404 /404.php
+
+<IfModule mod_rewrite.c>
+   RewriteEngine On
+   RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /html/(.*).html\ HTTPS/
+   RewriteRule .* http://localhost/html/%1 [R=301,L]
+
+   RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /html/(.*)\ HTTPS/
+   RewriteRule .* %1.html [L]
+   
+   RewriteEngine On
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteRule ^([^\.]+)$ $1.php [NC,L]
+</IfModule>
+
