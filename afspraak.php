@@ -13,7 +13,7 @@
                     <div class="row">
                         <div class="col-sm-10 col-md-8">
                             <h1>Maak je afspraak</h1>
-                            <p class="lead"> Ben je <u>nieuw</u> bij Kleinscharig? Dan kan je terecht bij <u>Angelique</u>. Momenteel is er bij Barbara geen plek meer. </p>
+                            <p> Je kan gemakkelijk een online afspraak maken, we sturen je een bevestiging via de e-mail. 
                         </div>
                     </div>
                 </div>
@@ -23,6 +23,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-5"> 
+
 		       				<script language="JavaScript">
 							<!--
 							
