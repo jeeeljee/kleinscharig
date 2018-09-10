@@ -20,11 +20,11 @@
 							    <table>
 	                                    <tr>
 		                                    <td class="text-right">Maandag</td> 
-		                                    <td class="text-left">08:00 - 20:30</td>
+		                                    <td class="text-left">08:00 - 17:30</td>
 		                                </tr>
 										<tr>
 											<td class="text-right">Dinsdag</td> 
-											<td class="text-left">08:00 - 17:30</td>
+											<td class="text-left">09:00 - 21:00</td>
 										</tr>
 	                                    <tr>
 		                                    <td class="text-right">Woensdag</td> 
@@ -32,7 +32,7 @@
 		                                </tr>
 	                                    <tr>
 		                                    <td class="text-right">Donderdag</td> 
-		                                    <td class="text-left">Gesloten</td>
+		                                    <td class="text-left">09:00 - 21:00</td>
 		                                </tr>
 	                                    <tr>
 		                                    <td class="text-right">Vrijdag</td> 

@@ -4,23 +4,24 @@
 		<!-- Google / Search Engine Tags -->
 		<meta itemprop="name" content="Kleinscharig - Kleine kapsalon in Amersfoort">
 		<meta itemprop="description" content="Kleinscharig is een moderne kapsalon in het Leusderkwartier in Amersfoort. ">
-		<meta itemprop="image" content="/img/kleinscharig-indebuurt.jpg">
+		<meta itemprop="image" content="/img/kleinscharig-socialcard.jpg">
 			
 		<!-- Facebook Meta Tags -->
 		<meta property="og:url" content="https://kleinscharig.nl">
 		<meta property="og:type" content="website">
 		<meta property="og:title" content="Kleinscharig - Kleine kapsalon in Amersfoort">
 		<meta property="og:description" content="Kleinscharig is een moderne kapsalon, voor dames & heren, in het Leusderkwartier in Amersfoort. ">
-		<meta property="og:image" content="/img/kleinscharig-indebuurt.jpg">
+		<meta property="og:image" content="/img/kleinscharig-socialcard.jpg">
 			
 		<!-- Twitter Meta Tags -->
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:title" content="Kleinscharig - Kleine kapsalon in Amersfoort">
 		<meta name="twitter:description" content="Kleinscharig is een moderne kapsalon, voor dames & heren, in het Leusderkwartier in Amersfoort. ">
-		<meta name="twitter:image" content="/img/kleinscharig-indebuurt.jpg">
+		<meta name="twitter:image" content="/img/kleinscharig-socialcard.jpg">
 			
 		<!-- Meta Tags Generated via http://heymeta.com -->
 		
+        <link href="css/iconsmind.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/stack-interface.css" rel="stylesheet" type="text/css" media="all">
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/theme-cedar.css" rel="stylesheet" type="text/css" media="all" />
@@ -49,7 +50,23 @@
 		  "telephone": "+31337851431"	
 		}
 		</script>
-		
+
+		<!-- Matomo -->
+		<script type="text/javascript">
+		  var _paq = _paq || [];
+		  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+		  _paq.push(['trackPageView']);
+		  _paq.push(['enableLinkTracking']);
+		  (function() {
+		    var u="//kleinscharig.nl/analytics/";
+		    _paq.push(['setTrackerUrl', u+'piwik.php']);
+		    _paq.push(['setSiteId', '1']);
+		    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+		  })();
+		</script>
+		<!-- End Matomo Code -->
+
     </head>
     <body data-smooth-scroll-offset="77">
 	    <a id="start"></a>
@@ -93,16 +110,15 @@
                         <li>
                             <a class="inner-link" href="/openingstijden">Openingstijden</a>
                         </li>
-                        <li>
+<!--                        <li>
+                            <a class="inner-link" href="/vacature">Vacature</a>
+                        </li>
+-->                        <li>
                             <a class="inner-link" href="/prijzen">Prijzen</a>
                         </li>
                         <li>
-                            <a class="inner-link" href="/shop">Shop</a>
+                            <a class="inner-link" href="/over-ons">Over ons</a>
                         </li>
-                        <li>
-                            <a class="inner-link" href="/team">Team</a>
-                        </li>
-
                         <li>
                             <a class="inner-link" href="/contact">Contact</a>
                         </li>

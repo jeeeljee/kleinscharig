@@ -8,9 +8,9 @@
 
         <div class="main-container" itemscope itemtype="http://schema.org/HairSalon">
 
-      <section class="imagebg text-center height-100" data-overlay="4">
+      <section class="imagebg text-center height-100" data-overlay="2">
                 <div class="background-image-holder"><img alt="background" src="img/404.jpg"></div>
-                <div class="container pos-vertical-center">
+                <div class="container pos-vertical-center right">
                     <div class="row">
                         <div class="col-sm-7 col-md-6">
                             <h2>404 - Met je handen in het haar</h2>

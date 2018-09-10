@@ -3,7 +3,7 @@
 				<div class="row">
 					<div class="col-sm-4">
 						<span class="type--fine-print">©
-						<span class="update-year">2017</span> Kleinscharig</span>
+						<span class="update-year">2017</span> Kleinscharig - <a href="/privacy" target="_blank">Privacyverklaring</a></span> 
 			        </div>
 					<div class="col-sm-4 text-center">
 						<span class="type--fine-print">Fotografie door <a href="https://www.anoukfotografeert.nl/" target="_blank">Anouk Fotografeert</a></span>

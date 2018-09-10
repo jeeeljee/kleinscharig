@@ -6,44 +6,52 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
   <loc>https://kleinscharig.nl/</loc>
-  <lastmod>2018-01-02T12:08:18+00:00</lastmod>
+  <lastmod>2018-07-04T22:32:05+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://kleinscharig.nl/producten</loc>
-  <lastmod>2018-01-02T12:08:18+00:00</lastmod>
+  <lastmod>2018-07-04T22:32:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://kleinscharig.nl/openingstijden</loc>
-  <lastmod>2018-01-02T12:08:18+00:00</lastmod>
+  <lastmod>2018-07-04T22:32:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://kleinscharig.nl/prijzen</loc>
-  <lastmod>2018-01-02T12:08:18+00:00</lastmod>
+  <lastmod>2018-07-04T22:32:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://kleinscharig.nl/shop</loc>
-  <lastmod>2018-01-02T12:08:18+00:00</lastmod>
+  <lastmod>2018-07-04T22:32:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://kleinscharig.nl/team</loc>
-  <lastmod>2018-01-02T12:08:18+00:00</lastmod>
+  <loc>https://kleinscharig.nl/over-ons</loc>
+  <lastmod>2018-07-04T22:32:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://kleinscharig.nl/contact</loc>
-  <lastmod>2018-01-02T12:08:18+00:00</lastmod>
+  <lastmod>2018-07-04T22:32:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://kleinscharig.nl/afspraak</loc>
-  <lastmod>2018-01-02T12:08:18+00:00</lastmod>
+  <lastmod>2018-07-04T22:32:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://kleinscharig.nl/privacy</loc>
+  <lastmod>2018-07-04T22:32:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>

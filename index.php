@@ -16,10 +16,10 @@
 	            </div>
                 <div class="container pos-vertical-center">
                     <div class="row">
-                        <div class="col-xs-7">
+                        <div class="col-sm-5 col-xs-7">
                             <h1>Welkom</h1>
                             <p class="lead">Maak een afspraak of lees verder. </p>
-                            <a class="btn btn--primary type--uppercase" href="/afspraak">Afspraak maken</a><br>
+                            <a class="btn btn--primary type--uppercase" href="/afspraak">Afspraak maken</a><br><br>
                         </div>
                     </div>
                 </div>

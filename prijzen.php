@@ -8,8 +8,8 @@
 	    <?php include'header.php' ?>
 	    
         <div class="main-container">
-            <section class="switchable imagebg height-70 text-center" data-overlay="0">
-                <div class="background-image-holder background--bottom">
+            <section class="switchable imagebg height-30 text-center" data-overlay="0">
+                <div class="background-image-holder background--top">
 	                <img alt="background" src="img/prijzen/kleinscharig-kapsalon-amersfoort-prijzen.jpg">
 	            </div>
             </section>
@@ -23,11 +23,12 @@
                                     <h2>Heren</h2> 
                                 </div>
                                 <ul>
-                                    <li>Knippen en wassen <span style="float: right;">25</span></li>
-                                    <li>Tondeuze coupe <span style="float: right;">15</span></li>
-                                    <li>Knippen en wasmassage <span style="float: right;">31</span></li>
-                                    <li>Knippen, wassen en baard/snor <span style="float: right;">29</span></li>
+                                    <li>Wassen en knippen <span style="float: right;">25</span></li>
+                                    <li>Wassen, knippen en baard/snor <span style="float: right;">29</span></li>
+                                    <li>Wasmassage en drogen <span style="float: right;">26</span></li>                                    
+                                    <li>Wasmassage en knippen <span style="float: right;">31</span></li>                                    
                                     <li>Knippen en kleuren <span style="float: right;">65</span></li>
+                                    <li>Tondeuse coupe <span style="float: right;">15</span></li>
                                 </ul>
                             </div>
                         </div>
@@ -48,6 +49,9 @@
                                     <li>Wassen en brushen <span style="float: right;">23</span></li>
                                     <li>Wassen en föhnen <span style="float: right;">29</span></li>
                                     <li>Wassen en föhnen (lang haar) <span style="float: right;">44</span></li>
+                                    <li>Wasmassage en drogen <span style="float: right;">30</span></li>
+                                    <li></li>
+                                    <li>Curlsys - Krullen knippen <span style="float: right;">65</span></li>                                    
                                 </ul>
                             </div>
                         </div>
@@ -68,7 +72,6 @@
                                     <li>High/lowlights (kort haar) <span style="float: right;">v.a. 50,5</span></li>
                                     <li>High/lowlights (halflang haar) <span style="float: right;">v.a. 61,5</span></li>
                                     <li>High/lowlights (lang haar) <span style="float: right;">v.a. 73</span></li>
-                                    <li>Coupe Soleil <span style="float: right;">v.a. 39</span></li>
                                 </ul>
                             </div>
                         </div>
@@ -104,6 +107,7 @@
                                     <li>8-12 jaar <span style="float: right;">20,5</span></li>
                                 </ul>
                             </div>
+							<p style="text-align: center"><sub>- De toeslag voor het haar wassen van kinderen is €3,50 -</sub></p>
                         </div>
                     </div>
                 </div>
@@ -176,7 +180,7 @@
                                 <li class="active">
                                     <div class="accordion__title"> <span class="h5">Waar kan ik mijn punten vinden?</span> </div>
                                     <div class="accordion__content">
-                                        <p class="lead">  Na iedere aankoop of behandeling ontvang je via de mail een update van je spaarpunten. </p>
+                                        <p class="lead">  Na iedere aankoop of behandeling ontvang je, als je dat wilt, via de mail een update van je spaarpunten. </p>
                                     </div>
                                 </li>
                                 <li>
