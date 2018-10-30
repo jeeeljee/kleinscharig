@@ -110,10 +110,10 @@
                         <li>
                             <a class="inner-link" href="/openingstijden">Openingstijden</a>
                         </li>
-<!--                        <li>
+                        <li>
                             <a class="inner-link" href="/vacature">Vacature</a>
                         </li>
--->                        <li>
+                        <li>
                             <a class="inner-link" href="/prijzen">Prijzen</a>
                         </li>
                         <li>
