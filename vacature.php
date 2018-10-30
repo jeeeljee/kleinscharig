@@ -80,7 +80,7 @@
                         <div class="col-sm-6">
                             <div class="feature feature-5 boxed boxed--lg boxed--border"> <i class="icon icon-Clock icon--md"></i>
                                 <div class="feature__body">
-                                    <h3>20 - 38 urige werkweek</h3>
+                                    <h3>Jouw werkweek</h3>
                                     <p> Twee, drie of liever vier dagen? Part-time of full-time. Daar komen we samen wel uit.  </p> 
                                 </div>
                             </div>
