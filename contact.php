@@ -22,7 +22,7 @@
 							<p class="lead"> Woestijgerweg 135 <br>3817 SE AMERSFOORT</p>
                             <a class="btn btn--primary type--uppercase" href="https://www.google.nl/maps/dir//Kleinscharig,+Woestijgerweg+135,+3817+SE+Amersfoort/@52.1449046,5.3833407,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47c64422f2b64a33:0x8e7b44ad0b23dac0!2m2!1d5.387525!2d52.143982" target="_blank"> <span class="btn__text">Routebeschrijving</span> </a>                            
 							<p>&nbsp;</p>
-							<p> Je kan voor de deur parkeren. </p>  
+							<p> In verband met wegwerkzaamheden kan je tijdelijk niet voor de deur parkeren. </p>  
 
 							<p>&nbsp;</p>
 							<a class="inner-link" href="tel:+31337851431"> <p>+31 33 785 14 31</p></a>

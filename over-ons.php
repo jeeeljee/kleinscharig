@@ -29,17 +29,17 @@
                     </div>
                 </div>
            </section>  
-           <section class="switchable feature-large space--md" id="lotte">
+           <section class="switchable feature-large space--md" id="michelle">
                 <div class="container">                                   
                     <div class="row">		                        
                         <div class="col-sm-6 col-md-5">                             
 	                        <div class="switchable__text">
                                 <div class="text-block">
-                                    <h2>Lotte Greeven</h2> </div>
-                                <p class="lead"> In 2018 is Lotte begonnen bij Kleinscharig. Na zes jaar bij Servaas te hebben gewerkt was ze toe aan een nieuwe uitdaging. Op haar 19<sup>e</sup>  is ze verliefd geworden op het kappersvak en sindsdien altijd blijven leren om een nog betere kapster te worden. Op maandag, dinsdag, woensdag en donderdag kan je bij Lotte een afspraak maken. </p>
+                                    <h2>Michelle van der Meer</h2> </div>
+                                <p class="lead">Werkt ruim tien jaar met veel plezier in het kappersvak. Ze vindt het belangrijk om goed te luisteren naar de wensen van de klant. Naast haar functie als topstyliste is het zetten van folies één van haar specialiteiten. Je kunt bij haar een afspraak maken op dinsdag, donderdag en vrijdag.</p>
                             </div>
  </div>
-                        <div class="col-sm-6"> <img alt="Image" class="border--round" src="img/team/kleinscharig-kapsalon-amersfoort-team-lotte.jpg"> </div>                        
+                        <div class="col-sm-6"> <img alt="Image" class="border--round" src="img/team/kleinscharig-kapsalon-amersfoort-team-michelle.jpg"> </div>                        
                     </div>
                 </div>
            </section>                    
@@ -51,13 +51,26 @@
                             <div class="switchable__text">
                                 <div class="text-block">
                                     <h2>Jessica Gerritsen</h2> </div>
-                                <p class="lead">In 2018 is Jessica komen werken bij Kleinscharig. Ze wist al vroeg dat ze het kappersvak in wilde. Na ruim tien jaar in dit vak, doet ze dit nog iedere dag met veel plezier en blijft ze zich ontwikkelen. U kunt bij haar een afspraak maken op dinsdag, donderdag en vrijdag.
- </p>
+                                <p class="lead"> Wist al vroeg dat ze het kappersvak in wilde. Met ruim tien jaar ervaring werkt ze nu als topstyliste. Daarnaast is ze getraind in de techniek van <a href="https://www.curlsys.nl/nl/krullen_knippen/krullen-knippen-nl.php" target="_blank">MCLEAN CURLSYS</a><sup>®</sup>. Met je krullen zit je bij haar goed. Je kan bij Jessica een afspraak maken op dinsdag, donderdag en vrijdag.</p>
                             </div>
                         </div>
                     </div>
                 </div>
            </section>  
+           <section class="switchable feature-large space--md" id="lotte">
+                <div class="container">                                   
+                    <div class="row">                               
+                        <div class="col-sm-6 col-md-5">                             
+                            <div class="switchable__text">
+                                <div class="text-block">
+                                    <h2>Lotte Greeven</h2> </div>
+                                <p class="lead"> In 2018 is Lotte begonnen bij Kleinscharig. Na zes jaar bij Servaas te hebben gewerkt was ze toe aan een nieuwe uitdaging. Op haar 19<sup>e</sup> is ze verliefd geworden op het kappersvak en sindsdien altijd blijven leren om een nog betere kapster te worden. Op maandag, dinsdag, woensdag en donderdag kan je bij Lotte een afspraak maken. </p>
+                            </div>
+ </div>
+                        <div class="col-sm-6"> <img alt="Image" class="border--round" src="img/team/kleinscharig-kapsalon-amersfoort-team-lotte.jpg"> </div>                        
+                    </div>
+                </div>
+           </section>                    
 
             <section class="space--md">
                 <div class="container">

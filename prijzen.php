@@ -23,12 +23,12 @@
                                     <h2>Heren</h2> 
                                 </div>
                                 <ul>
-                                    <li>Wassen en knippen <span style="float: right;">25</span></li>
-                                    <li>Wassen, knippen en baard/snor <span style="float: right;">29</span></li>
-                                    <li>Wasmassage en drogen <span style="float: right;">26</span></li>                                    
-                                    <li>Wasmassage en knippen <span style="float: right;">31</span></li>                                    
-                                    <li>Knippen en kleuren <span style="float: right;">65</span></li>
-                                    <li>Tondeuse coupe <span style="float: right;">15</span></li>
+                                    <li>Wassen en knippen <span style="float: right;">27,5</span></li>
+                                    <li>Wassen, knippen en baard/snor <span style="float: right;">32</span></li>
+                                    <li>Wasmassage en drogen <span style="float: right;">28,5</span></li>                                    
+                                    <li>Wasmassage en knippen <span style="float: right;">34</span></li>                                    
+                                    <li>Knippen en kleuren <span style="float: right;">71,5</span></li>
+                                    <li>Tondeuse coupe <span style="float: right;">16,5</span></li>
                                 </ul>
                             </div>
                         </div>
@@ -41,17 +41,17 @@
                                     <h2>Dames</h2> 
                                 </div>
                                 <ul>
-                                    <li>Wassen, knippen en drogen <span style="float: right;">29</span></li>
-                                    <li>Wassen, knippen en brushen <span style="float: right;">33</span></li>
-                                    <li>Wassen, knippen en föhnen <span style="float: right;">44</span></li>
-                                    <li>Wassen, knippen en föhnen (lang haar) <span style="float: right;">58</span></li>
-                                    <li>Wassen en drogen <span style="float: right;">11</span></li>
-                                    <li>Wassen en brushen <span style="float: right;">23</span></li>
-                                    <li>Wassen en föhnen <span style="float: right;">29</span></li>
-                                    <li>Wassen en föhnen (lang haar) <span style="float: right;">44</span></li>
-                                    <li>Wasmassage en drogen <span style="float: right;">30</span></li>
+                                    <li>Wassen, knippen en drogen <span style="float: right;">32</span></li>
+                                    <li>Wassen, knippen en brushen <span style="float: right;">36,5</span></li>
+                                    <li>Wassen, knippen en föhnen <span style="float: right;">48,5</span></li>
+                                    <li>Wassen, knippen en föhnen (lang haar) <span style="float: right;">64</span></li>
+                                    <li>Wassen en drogen <span style="float: right;">13</span></li>
+                                    <li>Wassen en brushen <span style="float: right;">25,5</span></li>
+                                    <li>Wassen en föhnen <span style="float: right;">32</span></li>
+                                    <li>Wassen en föhnen (lang haar) <span style="float: right;">48,5</span></li>
+                                    <li>Wasmassage en drogen <span style="float: right;">33</span></li>
                                     <li></li>
-                                    <li>Curlsys - Krullen knippen <span style="float: right;">65</span></li>                                    
+                                    <li><a href="https://www.curlsys.nl/nl/krullen_knippen/krullen-knippen-nl.php" target="_blank">CURLSYS</a><sup>®</sup> - Krullen knippen <span style="float: right;">71,5</span></li>                                    
                                 </ul>
                             </div>
                         </div>
@@ -62,16 +62,16 @@
                                     <h2>Dames</h2> 
                                 </div>
                                 <ul>
-                                    <li>Verven uitgroei<span style="float: right;">v.a. 45</span></li>
-                                    <li>Verven helemaal <span style="float: right;">v.a. 50,5</span></li>
-                                    <li>Extra highlights 6 folies <span style="float: right;">v.a. 11,5</span></li>
-                                    <li>Extra highlights 10 folies <span style="float: right;">v.a. 17</span></li>
-                                    <li>Extra highlights 14 folies <span style="float: right;">v.a. 28</span></li>
+                                    <li>Verven uitgroei<span style="float: right;">v.a. 49</span></li>
+                                    <li>Verven helemaal <span style="float: right;">v.a. 54</span></li>
+                                    <li>Extra highlights 6 folies <span style="float: right;">v.a. 12,5</span></li>
+                                    <li>Extra highlights 10 folies <span style="float: right;">v.a. 18,5</span></li>
+                                    <li>Extra highlights 14 folies <span style="float: right;">v.a. 30</span></li>
                                     <li></li>
-                                    <li>High/lowlights scalp <span style="float: right;">v.a. 39</span></li>
-                                    <li>High/lowlights (kort haar) <span style="float: right;">v.a. 50,5</span></li>
-                                    <li>High/lowlights (halflang haar) <span style="float: right;">v.a. 61,5</span></li>
-                                    <li>High/lowlights (lang haar) <span style="float: right;">v.a. 73</span></li>
+                                    <li>High/lowlights scalp <span style="float: right;">v.a. 43,5</span></li>
+                                    <li>High/lowlights (kort haar) <span style="float: right;">v.a. 54</span></li>
+                                    <li>High/lowlights (halflang haar) <span style="float: right;">v.a. 67,5</span></li>
+                                    <li>High/lowlights (lang haar) <span style="float: right;">v.a. 80</span></li>
                                 </ul>
                             </div>
                         </div>
@@ -82,13 +82,13 @@
                                     <h2>Dames</h2> 
                                 </div>
                                 <ul>
-                                    <li>Bruidskapsel (proef) <span style="float: right;">v.a. 60</span></li>
-                                    <li>Bruidskapsel <span style="float: right;">v.a. 60</span></li>
-                                    <li>Opsteken <span style="float: right;">v.a. 22,5</span></li>
-                                    <li>Opsteken en krullen <span style="float: right;">v.a. 46</span></li>
+                                    <li>Bruidskapsel (proef) <span style="float: right;">v.a. 66</span></li>
+                                    <li>Bruidskapsel <span style="float: right;">v.a. 66</span></li>
+                                    <li>Opsteken <span style="float: right;">v.a. 25</span></li>
+                                    <li>Opsteken en krullen <span style="float: right;">v.a. 50,5</span></li>
                                     <li></li>
-                                    <li>Permanent kort haar (incl.) <span style="float: right;">v.a. 106,5</span></li>
-                                    <li>Permanent lang haar (incl.) <span style="float: right;">v.a. 134,5</span></li>
+                                    <li>Permanent kort haar (incl.) <span style="float: right;">v.a. 117</span></li>
+                                    <li>Permanent lang haar (incl.) <span style="float: right;">v.a. 148</span></li>
                                 </ul>
                             </div>
                         </div>
@@ -101,10 +101,9 @@
                                     <h2>Kinderen</h2> 
                                 </div>
                                 <ul>
-                                    <li>0-1 jaar <span style="float: right;">10,5</span></li>
-                                    <li>2-3 jaar <span style="float: right;">14,5</span></li>
-                                    <li>4-7 jaar <span style="float: right;">16,5</span></li>
-                                    <li>8-12 jaar <span style="float: right;">20,5</span></li>
+                                    <li>0-1 jaar <span style="float: right;">12</span></li>
+                                    <li>2-3 jaar <span style="float: right;">16</span></li>
+                                    <li>4-12 jaar <span style="float: right;">23</span></li>
                                 </ul>
                             </div>
 							<p style="text-align: center"><sub>- De toeslag voor het haar wassen van kinderen is €3,50 -</sub></p>
@@ -214,7 +213,7 @@
                         <div class="col-sm-8 col-md-6">
                             <div class="cta">
                                 <a class="btn btn--primary btn--lg type--uppercase" href="/afspraak"> <span class="btn__text">Afspraak maken</span> </a>
-                                <p class="type--fine-print">(De prijzen zijn incl. 6% BTW en wijzigingen zijn onder voorbehoud)</p>
+                                <p class="type--fine-print">(De prijzen zijn incl. 9% btw en wijzigingen zijn onder voorbehoud)</p>
                             </div>
                         </div>
                     </div>
