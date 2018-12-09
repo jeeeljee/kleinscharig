@@ -13,7 +13,7 @@
                     <div class="row">
                         <div class="col-sm-10 col-md-8">
                             <h1>Maak je afspraak</h1>
-                            <p class="lead"> Ben je <u>nieuw</u> bij Kleinscharig? Dan kan je terecht bij <a href="over-ons#lotte">Lotte</a> of <a href="over-ons#jessica">Jessica</a>. Momenteel is er bij Barbara geen plek meer. Je kan hieronder gemakkelijk een afspraak maken, we sturen je een bevestiging via de e-mail. </p>
+                            <p class="lead"> Ben je nieuw bij Kleinscharig? Dan kan je terecht bij <a href="over-ons#lotte" style="line-height: 0;">Lotte</a> of <a href="over-ons#jessica" style="line-height: 0;">Jessica</a>. En vanaf januari bij Michelle. Momenteel is er bij <a href="over-ons#barbara" style="line-height: 0;">Barbara</a> geen plek meer. Je kan hieronder gemakkelijk een afspraak maken, we sturen je een bevestiging via de e-mail. </p>
                             <p>&nbsp;</p>
 
                         </div>

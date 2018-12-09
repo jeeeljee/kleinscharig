@@ -28,35 +28,7 @@
                         </div>
                     </div>
                 </div>
-           </section>  
-           <section class="switchable feature-large space--md" id="michelle">
-                <div class="container">                                   
-                    <div class="row">		                        
-                        <div class="col-sm-6 col-md-5">                             
-	                        <div class="switchable__text">
-                                <div class="text-block">
-                                    <h2>Michelle van der Meer</h2> </div>
-                                <p class="lead">Werkt ruim tien jaar met veel plezier in het kappersvak. Ze vindt het belangrijk om goed te luisteren naar de wensen van de klant. Naast haar functie als topstyliste is het zetten van folies één van haar specialiteiten. Je kunt bij haar een afspraak maken op dinsdag, donderdag en vrijdag.</p>
-                            </div>
- </div>
-                        <div class="col-sm-6"> <img alt="Image" class="border--round" src="img/team/kleinscharig-kapsalon-amersfoort-team-michelle.jpg"> </div>                        
-                    </div>
-                </div>
-           </section>                    
-           <section class="switchable feature-large space--md" id="jessica">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-6"> <img alt="Image" class="border--round" src="img/team/kleinscharig-kapsalon-amersfoort-team-jessica.jpg"> </div>
-                        <div class="col-sm-6 col-md-5">
-                            <div class="switchable__text">
-                                <div class="text-block">
-                                    <h2>Jessica Gerritsen</h2> </div>
-                                <p class="lead"> Wist al vroeg dat ze het kappersvak in wilde. Met ruim tien jaar ervaring werkt ze nu als topstyliste. Daarnaast is ze getraind in de techniek van <a href="https://www.curlsys.nl/nl/krullen_knippen/krullen-knippen-nl.php" target="_blank">MCLEAN CURLSYS</a><sup>®</sup>. Met je krullen zit je bij haar goed. Je kan bij Jessica een afspraak maken op dinsdag, donderdag en vrijdag.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-           </section>  
+           </section> 
            <section class="switchable feature-large space--md" id="lotte">
                 <div class="container">                                   
                     <div class="row">                               
@@ -71,6 +43,35 @@
                     </div>
                 </div>
            </section>                    
+            
+<!--           <section class="switchable feature-large space--md" id="michelle">
+                <div class="container">                                   
+                    <div class="row">		                        
+                        <div class="col-sm-6 col-md-5">                             
+	                        <div class="switchable__text">
+                                <div class="text-block">
+                                    <h2>Michelle van der Meer</h2> </div>
+                                <p class="lead">Vanaf 1 januari 2019 komt ze bij Kleinscharig werken. Werkt ruim tien jaar met veel plezier in het kappersvak. Ze vindt het belangrijk om goed te luisteren naar de wensen van de klant. Naast haar functie als topstyliste is het zetten van folies één van haar specialiteiten. Je kunt bij haar een afspraak maken op dinsdag, donderdag en vrijdag.</p>
+                            </div>
+ </div>
+                        <div class="col-sm-6"> <img alt="Image" class="border--round" src="img/team/kleinscharig-kapsalon-amersfoort-team-michelle.jpg"> </div>                        
+                    </div>
+                </div>
+           </section>                   --> 
+           <section class="switchable feature-large space--md" id="jessica">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6"> <img alt="Image" class="border--round" src="img/team/kleinscharig-kapsalon-amersfoort-team-jessica.jpg"> </div>
+                        <div class="col-sm-6 col-md-5">
+                            <div class="switchable__text">
+                                <div class="text-block">
+                                    <h2>Jessica Gerritsen</h2> </div>
+                                <p class="lead"> Wist al vroeg dat ze het kappersvak in wilde. Met ruim tien jaar ervaring werkt ze nu als topstyliste. Daarnaast is ze getraind in de techniek van <a href="https://www.curlsys.nl/nl/krullen_knippen/krullen-knippen-nl.php" target="_blank">MCLEAN CURLSYS</a><sup>®</sup>. Met je krullen zit je bij haar goed. Je kan bij Jessica een afspraak maken op dinsdag, donderdag en vrijdag.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+           </section>  
 
             <section class="space--md">
                 <div class="container">
