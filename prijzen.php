@@ -50,7 +50,7 @@
                                     <li>Wassen en föhnen <span style="float: right;">32</span></li>
                                     <li>Wassen en föhnen (lang haar) <span style="float: right;">48,5</span></li>
                                     <li>Wasmassage en drogen <span style="float: right;">33</span></li>
-                                    <li></li>
+                                    <li>Wasmassage, knippen en drogen <span style="float: right;">38,5</span></li>
                                     <li><a href="https://www.curlsys.nl/nl/krullen_knippen/krullen-knippen-nl.php" target="_blank">CURLSYS</a><sup>®</sup> - Krullen knippen <span style="float: right;">71,5</span></li>                                    
                                 </ul>
                             </div>

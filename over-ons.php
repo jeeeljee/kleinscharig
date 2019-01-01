@@ -28,23 +28,8 @@
                         </div>
                     </div>
                 </div>
-           </section> 
-           <section class="switchable feature-large space--md" id="lotte">
-                <div class="container">                                   
-                    <div class="row">                               
-                        <div class="col-sm-6 col-md-5">                             
-                            <div class="switchable__text">
-                                <div class="text-block">
-                                    <h2>Lotte Greeven</h2> </div>
-                                <p class="lead"> In 2018 is Lotte begonnen bij Kleinscharig. Na zes jaar bij Servaas te hebben gewerkt was ze toe aan een nieuwe uitdaging. Op haar 19<sup>e</sup> is ze verliefd geworden op het kappersvak en sindsdien altijd blijven leren om een nog betere kapster te worden. Op maandag, dinsdag, woensdag en donderdag kan je bij Lotte een afspraak maken. </p>
-                            </div>
- </div>
-                        <div class="col-sm-6"> <img alt="Image" class="border--round" src="img/team/kleinscharig-kapsalon-amersfoort-team-lotte.jpg"> </div>                        
-                    </div>
-                </div>
-           </section>                    
-            
-<!--           <section class="switchable feature-large space--md" id="michelle">
+           </section>             
+           <section class="switchable feature-large space--md" id="michelle">
                 <div class="container">                                   
                     <div class="row">		                        
                         <div class="col-sm-6 col-md-5">                             
@@ -57,7 +42,7 @@
                         <div class="col-sm-6"> <img alt="Image" class="border--round" src="img/team/kleinscharig-kapsalon-amersfoort-team-michelle.jpg"> </div>                        
                     </div>
                 </div>
-           </section>                   --> 
+           </section>
            <section class="switchable feature-large space--md" id="jessica">
                 <div class="container">
                     <div class="row">
