@@ -36,7 +36,7 @@
 	                        <div class="switchable__text">
                                 <div class="text-block">
                                     <h2>Michelle van der Meer</h2> </div>
-                                <p class="lead">Vanaf 1 januari 2019 komt ze bij Kleinscharig werken. Werkt ruim tien jaar met veel plezier in het kappersvak. Ze vindt het belangrijk om goed te luisteren naar de wensen van de klant. Naast haar functie als topstyliste is het zetten van folies één van haar specialiteiten. Je kunt bij haar een afspraak maken op dinsdag, donderdag en vrijdag.</p>
+                                <p class="lead"> Ze werkt ruim tien jaar met veel plezier in het kappersvak. Ze vindt het belangrijk om goed te luisteren naar de wensen van de klant. Naast haar functie als topstyliste is het zetten van folies één van haar specialiteiten. Je kunt bij haar een afspraak maken op dinsdag, woensdag, donderdag en vrijdag.</p>
                             </div>
  </div>
                         <div class="col-sm-6"> <img alt="Image" class="border--round" src="img/team/kleinscharig-kapsalon-amersfoort-team-michelle.jpg"> </div>                        
@@ -56,7 +56,20 @@
                         </div>
                     </div>
                 </div>
-           </section>  
+           </section> 
+
+            <section class="text-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-8 col-md-6">
+                            <div class="cta">
+                                <a class="btn btn--primary btn--lg type--uppercase" href="/afspraak"> <span class="btn__text">Afspraak maken</span> </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+             
 
             <section class="space--md">
                 <div class="container">
@@ -90,18 +103,6 @@
                 </div>
             </section>         
 
-	        <section class="text-center">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-8 col-md-6">
-                            <div class="cta">
-                                <a class="btn btn--primary btn--lg type--uppercase" href="/afspraak"> <span class="btn__text">Afspraak maken</span> </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
- 
    	    <?php include'footer.php' ?>
 
         <script src="js/jquery-3.1.1.min.js"></script>

@@ -13,7 +13,7 @@
                     <div class="row">
                         <div class="col-sm-10 col-md-8">
                             <h1>Maak je afspraak</h1>
-                            <p class="lead"> Ben je nieuw bij Kleinscharig? Dan kan je terecht bij <a href="over-ons#michelle" style="line-height: 0;">Michelle</a> of <a href="over-ons#jessica" style="line-height: 0;">Jessica</a>. Momenteel is er bij <a href="over-ons#barbara" style="line-height: 0;">Barbara</a> geen plek meer. Je kan hieronder gemakkelijk een afspraak maken, we sturen je een bevestiging via de e-mail. </p>
+                            <p class="lead"> Ben je nieuw bij Kleinscharig? Dan kan je terecht bij <a href="over-ons#jessica" style="line-height: 0;">Jessica</a> of <a href="over-ons#michelle" style="line-height: 0;">Michelle</a>. Momenteel is er bij <a href="over-ons#barbara" style="line-height: 0;">Barbara</a> geen plek meer. Je kan hieronder gemakkelijk een afspraak maken, we sturen je een bevestiging via de e-mail. </p>
                             <p>&nbsp;</p>
 
                         </div>
@@ -33,8 +33,8 @@
 							var myimages=new Array()
 							myimages[1]="img/afspraak/kleinscharig-kapsalon-amersfoort-barbara.jpg"														
 							myimages[2]="img/afspraak/kleinscharig-kapsalon-amersfoort-barbara2.jpg"				
-							myimages[5]="img/afspraak/kleinscharig-kapsalon-amersfoort-jessica.jpg"	
-							myimages[6]="img/afspraak/kleinscharig-kapsalon-amersfoort-jessica2.jpg"																																									
+							myimages[3]="img/afspraak/kleinscharig-kapsalon-amersfoort-jessica.jpg"	
+							myimages[4]="img/afspraak/kleinscharig-kapsalon-amersfoort-jessica2.jpg"																																									
 							var ry=Math.floor(Math.random()*myimages.length)
 							if (ry==0)
 							ry=1

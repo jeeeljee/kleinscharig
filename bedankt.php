@@ -35,8 +35,6 @@
 							var myimages=new Array()
 							myimages[1]="img/kleinscharig-kapsalon-amersfoort-bedankt1.jpg"														
 							myimages[2]="img/kleinscharig-kapsalon-amersfoort-bedankt2.jpg"														
-							myimages[3]="img/kleinscharig-kapsalon-amersfoort-bedankt3.jpg"														
-							myimages[4]="img/kleinscharig-kapsalon-amersfoort-bedankt4.jpg"														
 																																	
 							var ry=Math.floor(Math.random()*myimages.length)
 							if (ry==0)
