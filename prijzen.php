@@ -29,6 +29,7 @@
                                     <li>Wasmassage en knippen <span style="float: right;">34</span></li>                                    
                                     <li>Knippen en kleuren <span style="float: right;">71,5</span></li>
                                     <li>Tondeuse coupe <span style="float: right;">16,5</span></li>
+                                    <li><a href="https://www.curlsys.nl/nl/krullen_knippen/krullen-knippen-nl.php" target="_blank">CURLSYS</a><sup>®</sup> - Krullen knippen <span style="float: right;">71,5</span></li>   
                                 </ul>
                             </div>
                         </div>

@@ -65,7 +65,7 @@
                             <div class="feature feature-5 boxed boxed--lg boxed--border"> <i class="icon icon-Shop icon--md"></i>
                                 <div class="feature__body">
                                     <h3>Een gezellige werkplek</h3>
-                                    <p> Gevestigd in een sfeervol oud winkel pand in het Leusderkwartier. Het is een lekker licht pand in een gezellige buurt.  </p>
+                                    <p> Gevestigd in een sfeervol oud winkelpand in het Leusderkwartier. Het is een lekker licht pand in een gezellige buurt.  </p>
                                 </div>
                             </div>
                         </div>

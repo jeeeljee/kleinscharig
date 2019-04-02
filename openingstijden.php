@@ -28,15 +28,15 @@
 										</tr>
 	                                    <tr>
 		                                    <td class="text-right">Woensdag</td> 
-		                                    <td class="text-left">09:30 - 11:30<sup>*</sup></td>
+		                                    <td class="text-left">09:00 - 17:30</td>
 		                                </tr>
 	                                    <tr>
 		                                    <td class="text-right">Donderdag</td> 
-		                                    <td class="text-left">09:00 - 21:00</td>
+		                                    <td class="text-left">09:15 - 21:00</td>
 		                                </tr>
 	                                    <tr>
 		                                    <td class="text-right">Vrijdag</td> 
-		                                    <td class="text-left">08:00 - 17:30</td>
+		                                    <td class="text-left">09:00 - 17:30</td>
 		                                </tr>
 	                                    <tr>
 		                                    <td class="text-right">Zaterdag</td>
@@ -51,7 +51,7 @@
 									<p>&nbsp;</p>
 									<a class="btn btn--primary btn--lg type--uppercase " href="/afspraak"> <span class="btn__text">Afspraak maken</span> </a>
 									<br><br>
-									<p><sup>*</sup> In verband met zwangerschapsverlof tijdelijk andere openingstijden. Om de week op woensdag geopend.</p>
+									<p><sup>*</sup> In verband met zwangerschapsverlof tijdelijk op maandag gesloten. </p>
                         
 						</div>
                     </div>

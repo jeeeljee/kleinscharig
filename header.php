@@ -85,7 +85,7 @@
                         </div>
                         <div class="col-md-6 col-sm-10 col-xs-4">
                             <div class="bar__module">
-                                <a class="menu-toggle pull-right" href="#" data-notification-link="sidebar-menu">
+                                <a class="menu-toggle pull-right" href="#" data-notification-link="sidebar-menu" title="menu">
                                     <i class="stack-interface stack-menu"></i>
                                 </a>
                             </div>
@@ -102,7 +102,7 @@
                 <div class="side-menu__module pos-vertical-center text-center">
                     <ul class="menu-vertical">
                         <li>
-                            <a class="inner-link" href="/">Home</a>
+                            <a class="inner-link" href="/" >Home</a>
                         </li>
                         <li>
                             <a class="inner-link" href="/producten">Producten</a>
@@ -141,17 +141,17 @@
                 <div class="side-menu__module pos-bottom pos-absolute col-xs-12 text-center">
                     <ul class="social-list list-inline text-center list--hover">
                         <li>
-                            <a href="https://www.instagram.com/kleinscharig/" target="_blank">
+                            <a href="https://www.instagram.com/kleinscharig/" title="instagram" target="_blank">
                                 <i class="socicon socicon-instagram icon icon--xs"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.facebook.com/kleinscharig.amersfoort/" target="_blank">
+                            <a href="https://www.facebook.com/kleinscharig.amersfoort/" title="facebook" target="_blank">
                                 <i class="socicon socicon-facebook icon icon--xs"></i>
                             </a>
                         </li>
                         <li>
-                            <a itemprop="url" href="https://m.me/kleinscharig.amersfoort">
+                            <a itemprop="url" href="https://m.me/kleinscharig.amersfoort" title="messenger">
                                 <i class="socicon socicon-messenger icon icon--xs"></i>
                             </a>
                         </li>
