@@ -20,7 +20,6 @@
 		<meta name="twitter:image" content="/img/kleinscharig-socialcard.jpg">
 			
 		<!-- Meta Tags Generated via http://heymeta.com -->
-		
         <link href="css/iconsmind.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/stack-interface.css" rel="stylesheet" type="text/css" media="all">
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
@@ -36,20 +35,46 @@
 		<link rel="manifest" href="favicons/manifest.json?v=zXro7pjpNg">
 		<link rel="mask-icon" href="favicons/safari-pinned-tab.svg?v=zXro7pjpNg" color="#5bbad5">
 		<link rel="shortcut icon" href="favicons/favicon.ico?v=zXro7pjpNg">
-				<script type="application/ld+json">
-		{
-		  "@context": "http://schema.org/",
-		  "@type": "HairSalon",
-		  "url": "https://www.kleinscharig.nl",
-		  "name": "Kleinscharig",
-		  "description": "Kleinscharig is een moderne kapsalon in het Leusderkwartier in Amersfoort.",
-		  "image": "https://www.kleinscharig.nl/img/team/kleinscharig-kapsalon-amersfoort-team-door.jpg",
-		  "address": "Woestijgerweg 135, 3817 SE Amersfoort",
-		  "openingHours":["Mo 08:00-20:30", "Tu 08:00-17:30", "We 08::00-17:30", "Fr 08::00-17:30"],
-		  "priceRange": "$$",
-		  "telephone": "+31337851431"	
-		}
+		<script type="application/ld+json">
+    		{
+    		  "@context": "http://schema.org/",
+    		  "@type": "HairSalon",
+    		  "url": "https://www.kleinscharig.nl",
+    		  "name": "Kleinscharig",
+    		  "description": "Kleinscharig is een moderne kapsalon in het Leusderkwartier in Amersfoort.",
+    		  "image": "https://www.kleinscharig.nl/img/team/kleinscharig-kapsalon-amersfoort-team-door.jpg",
+    		  "address": "Woestijgerweg 135, 3817 SE Amersfoort",
+    		  "openingHours":["Mo 08:00-20:30", "Tu 08:00-17:30", "We 08::00-17:30", "Fr 08::00-17:30"],
+    		  "priceRange": "$$",
+    		  "telephone": "+31337851431"	
+    		}
 		</script>
+
+        <!-- Dark Mode 
+        <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.4.0/lib/darkmode-js.min.js"></script>
+        <script>
+
+                    var options = {
+              bottom: '32px', // default: '32px'
+              right: '32px', // default: '32px'
+              left: 'unset', // default: 'unset'
+              time: '0.3s', // default: '0.3s'
+              mixColor: '#fff', // default: '#fff'
+              backgroundColor: '#fff',  // default: '#fff'
+              buttonColorDark: '#100f2c',  // default: '#100f2c'
+              buttonColorLight: '#fff', // default: '#fff'
+              saveInCookies: false, // default: true,
+              label: '🌓', // default: ''
+              autoMatchOsTheme: true // default: true
+            }
+
+            const darkmode = new Darkmode(options);
+            darkmode.showWidget();
+        
+        </script>
+
+        <!-- End Dark Mode -->
+
 
 		<!-- Matomo -->
 		<script type="text/javascript">
@@ -126,13 +151,13 @@
                             &nbsp;
                         </li>                  
                         <li>
-							<a class="btn btn--primary type--uppercase" href="/afspraak"> <span class="btn__text">Afspraak maken</span> </a>
+							<a class="btn btn--primary type--uppercase" href="/afspraak"> <span class="btn__text">Maak een afspraak</span> </a>
                         </li>
 						<li>
                             &nbsp;
                         </li>                            
                         <li>
-							<a class="inner-link" href="tel:+31337851431"> <p class="type--fine-print"><sup><span itemprop="telephone">+31 33 785 14 31</span></sup></p></a>
+							<a class="inner-link" href="tel:+31337851431" rel="noreferrer"> <p class="type--fine-print"><sup><span itemprop="telephone">+31 33 785 14 31</span></sup></p></a>
                         </li>                        
 
                     </ul>                   
@@ -141,17 +166,17 @@
                 <div class="side-menu__module pos-bottom pos-absolute col-xs-12 text-center">
                     <ul class="social-list list-inline text-center list--hover">
                         <li>
-                            <a href="https://www.instagram.com/kleinscharig/" title="instagram" target="_blank">
+                            <a href="https://www.instagram.com/kleinscharig/" rel="noreferrer" title="instagram" target="_blank">
                                 <i class="socicon socicon-instagram icon icon--xs"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.facebook.com/kleinscharig.amersfoort/" title="facebook" target="_blank">
+                            <a href="https://www.facebook.com/kleinscharig.amersfoort/" rel="noreferrer" title="facebook" target="_blank">
                                 <i class="socicon socicon-facebook icon icon--xs"></i>
                             </a>
                         </li>
                         <li>
-                            <a itemprop="url" href="https://m.me/kleinscharig.amersfoort" title="messenger">
+                            <a itemprop="url" href="https://m.me/kleinscharig.amersfoort" rel="noreferrer" target="_blank" title="messenger">
                                 <i class="socicon socicon-messenger icon icon--xs"></i>
                             </a>
                         </li>

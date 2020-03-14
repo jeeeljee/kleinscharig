@@ -1,2 +1,0 @@
-# kleinscharig
-Website van Kleinscharig

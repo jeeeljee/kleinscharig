@@ -8,10 +8,8 @@
 	    
 	    <?php include'header.php' ?>
 
+
         <div class="main-container" itemscope itemtype="http://schema.org/HairSalon">
-
-
-        <div class="main-container">
             <section class="text-center">
                 <div class="container">
                     <div class="row">
@@ -22,6 +20,7 @@
                     </div>
                 </div>
             </section>
+
             <section>
                 <div class="container">
                     <div class="row">
@@ -48,6 +47,7 @@
                     </div>
                 </div>
             </section>
+
             <section class="text-center">
                 <div class="container">
                     <div class="row">
@@ -111,8 +111,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
-            
+            </section>            
             
             <section class="switchable switchable--">
                 <div class="container">

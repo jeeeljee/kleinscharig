@@ -20,7 +20,7 @@
 							    <table>
 	                                    <tr>
 		                                    <td class="text-right">Maandag</td> 
-		                                    <td class="text-left">Tijdelijk gesloten<sup>*</sup></td>
+		                                    <td class="text-left">08:00 - 17:30</td>
 		                                </tr>
 										<tr>
 											<td class="text-right">Dinsdag</td> 
@@ -28,7 +28,7 @@
 										</tr>
 	                                    <tr>
 		                                    <td class="text-right">Woensdag</td> 
-		                                    <td class="text-left">09:00 - 17:30</td>
+		                                    <td class="text-left">08:00 - 17:30</td>
 		                                </tr>
 	                                    <tr>
 		                                    <td class="text-right">Donderdag</td> 
@@ -36,7 +36,7 @@
 		                                </tr>
 	                                    <tr>
 		                                    <td class="text-right">Vrijdag</td> 
-		                                    <td class="text-left">09:00 - 17:30</td>
+		                                    <td class="text-left">08:00 - 17:30</td>
 		                                </tr>
 	                                    <tr>
 		                                    <td class="text-right">Zaterdag</td>
@@ -49,10 +49,8 @@
 
                                     </table>
 									<p>&nbsp;</p>
-									<a class="btn btn--primary btn--lg type--uppercase " href="/afspraak"> <span class="btn__text">Afspraak maken</span> </a>
-									<br><br>
-									<p><sup>*</sup> In verband met zwangerschapsverlof tijdelijk op maandag gesloten. </p>
-                        
+									<a class="btn btn--primary btn--lg type--uppercase " href="/afspraak"> <span class="btn__text">Maak een afspraak</span> </a>
+									<br><br>                        
 						</div>
                     </div>
                 </div>

@@ -12,14 +12,14 @@
 
             <section class="cover height-80 imagebg text-left">
                <div class="background-image-holder background--bottom">
-	                <img itemprop="photo" alt="background" src="img/kleinscharig-kapsalon-amersfoort-copper.jpg">
+	                <img itemprop="photo" alt="kleinscharig-background" src="img/kleinscharig-kapsalon-amersfoort-copper.jpg">
 	            </div>
                 <div class="container pos-vertical-center">
                     <div class="row">
                         <div class="col-sm-5 col-xs-7">
-                            <h1>Welkom</h1>
-                            <p class="lead">Maak een afspraak of lees verder. </p>
-                            <a class="btn btn--primary type--uppercase" href="/afspraak">Afspraak maken</a><br><br>
+                            <h1>Kapper in Amersfoort</h1>
+                            <p class="lead">Vakwerk, persoonlijk en lekkere koffie. </p>
+                            <a class="btn btn--primary type--uppercase" href="/afspraak">Maak een afspraak</a><br><br>
                         </div>
                     </div>
                 </div>
@@ -41,39 +41,39 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-4 col-xs-6">
-                            <img itemprop="image" alt="model eline" src="img/model/kleinscharig-kapsalon-amersfoort-eline.jpg">
+                            <img itemprop="image" alt="model" src="img/home/kleinscharig-kapsalon-amersfoort-1.jpg">
                              <div></div>
                         </div>
                         <div class="col-sm-4 col-xs-6">
-                            <img itemprop="image" alt="model rob" src="img/model/kleinscharig-kapsalon-amersfoort-rob.jpg">
+                            <img itemprop="image" alt="model" src="img/home/kleinscharig-kapsalon-amersfoort-2.jpg">
                              <div></div>
                         </div>
 						<div class="col-sm-4 col-xs-6">
-                        	<img itemprop="image" alt="model henk" src="img/model/kleinscharig-kapsalon-amersfoort-henk.jpg">
+                            <img itemprop="image" alt="model" src="img/home/kleinscharig-kapsalon-amersfoort-3.jpg">
                              <div></div>
                         </div>
                         <div class="col-sm-4 col-xs-6">
-                            <img itemprop="image" alt="Image" src="img/model/kleinscharig-kapsalon-amersfoort-femke2.jpg">
+                            <img itemprop="image" alt="model" src="img/home/kleinscharig-kapsalon-amersfoort-4.jpg">
                              <div></div>
                         </div>
                         <div class="col-sm-4 col-xs-6">
-                            <img itemprop="image" alt="Image" src="img/model/kleinscharig-kapsalon-amersfoort-guido.jpg">
+                            <img itemprop="image" alt="model" src="img/home/kleinscharig-kapsalon-amersfoort-5.jpg">
                              <div></div>
                         </div>
 						<div class="col-sm-4 col-xs-6">
-                        	<img itemprop="image" alt="Image" src="img/model/kleinscharig-kapsalon-amersfoort-cleo.jpg">
+                            <img itemprop="image" alt="model" src="img/home/kleinscharig-kapsalon-amersfoort-6.jpg">
                              <div></div>
                         </div>
 						<div class="col-sm-4 col-xs-6">
-                        	<img itemprop="image" alt="Image" src="img/model/kleinscharig-kapsalon-amersfoort-henk2.jpg">
+                            <img itemprop="image" alt="model" src="img/home/kleinscharig-kapsalon-amersfoort-7.jpg">
                              <div></div>
                         </div>
 						<div class="col-sm-4 col-xs-6">
-                        	<img itemprop="image" alt="Image" src="img/model/kleinscharig-kapsalon-amersfoort-femke.jpg">
+                            <img itemprop="image" alt="model" src="img/home/kleinscharig-kapsalon-amersfoort-8.jpg">
                              <div></div>
                         </div>
 						<div class="col-sm-4 col-xs-12">
-                        	<img itemprop="image" alt="Image" src="img/model/kleinscharig-kapsalon-amersfoort-alisson.jpg">
+                            <img itemprop="image" alt="model" src="img/home/kleinscharig-kapsalon-amersfoort-9.jpg">
                              <div></div>
                         </div>                                                                        
                     </div>
@@ -85,7 +85,7 @@
                     <div class="row">
                         <div class="col-sm-8 col-md-6">
                             <div class="cta">
-                                <a class="btn btn--primary btn--lg type--uppercase" href="/afspraak"> <span class="btn__text">Afspraak maken</span> </a>
+                                <a class="btn btn--primary btn--lg type--uppercase" href="/afspraak"> <span class="btn__text">Maak een afspraak</span> </a>
                             </div>
                         </div>
                     </div>
@@ -94,11 +94,13 @@
  
    	    <?php include'footer.php' ?>
 
-        <script async src="js/jquery-3.1.1.min.js"></script>
-        <script async src="js/isotope.min.js"></script>
-        <script async src="js/parallax.js"></script>
-        <script async src="js/smooth-scroll.min.js"></script>
-        <script async src="js/scripts.js"></script>
+        <script
+  src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+  integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
+  crossorigin="anonymous"></script>
+        <script src="js/parallax.js"></script>
+        <script src="js/smooth-scroll.min.js"></script>
+        <script src="js/scripts.js"></script>
 
     </body>
 
