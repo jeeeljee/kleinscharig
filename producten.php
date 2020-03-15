@@ -17,18 +17,76 @@
                         <div class="col-sm-10 col-md-8">
                             <h1>KEVIN.MURPHY</h1>
                             <p class="lead">De producten die wij gebruiken zijn <b>eco-friendly</b> en <b>cruelty-free</b>. Kwaliteit en duurzaamheid staan voorop. De producten zijn ontworpen om langdurig te presteren, geven het haar stevigheid en zijn bovendien <b>parabeen- en sulfaatvrij</b>. </p>
-                            <p><img alt="Image" width="50px" src="img/producten/crueltyfree.png"></p>
 
                         </div>
                     </div>
                 </div>
+            </section>       
+	        <section class="text-center">
+                <div class="tabs-container" data-content-align="left">
+                    <ul class="tabs tabs--spaced">
+                        <li class="active">
+                            <div class="tab__title text-center"> <i class="icon block icon-Wave icon--sm"></i> <span class="h5">Ocean Waste Plastic</span> </div>
+                            <div class="tab__content">
+                                <div class="container switchable switchable--switch">
+                                    <div class="row">
+                                        <div class="col-sm-7"> <img alt="Image" src="img/device-6.png"> </div>
+                                        <div class="col-sm-5 col-md-4">
+                                            <div class="mt--1">
+                                                <h3>Ocean Waste Plastic</h3>
+                                                <p class="lead"> Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template. </p>
+                                                <hr class="short">
+                                                <p> Each purchase of Stack includes six months of free support and lifetime free content and bug-fix updates. </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="tab__title text-center"> <i class="icon block icon-Mouse icon--sm"></i> <span class="h5">Cruelty Free</span> </div>
+                            <div class="tab__content">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-sm-7"> <img alt="Image" width="50%" src="img/producten/crueltyfree.png"> </div>
+                                        <div class="col-sm-5 col-md-4">
+                                            <div class="mt--1">
+                                                <h3>Cruelty Free</h3>
+                                                <p class="lead"> Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template. </p>
+                                                <hr class="short">
+                                                <p> Each purchase of Stack includes six months of free support and lifetime free content and bug-fix updates. </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="tab__title text-center"> <i class="icon block icon-Environmental icon--sm"></i> <span class="h5">Vegan</span> </div>
+                            <div class="tab__content">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-sm-7"> <img alt="Image" src="img/device-2.png"> </div>
+                                        <div class="col-sm-5 col-md-4">
+                                            <div class="mt--1">
+                                                <h3>Vegan</h3>
+                                                <p class="lead"> Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template. </p>
+                                                <hr class="short">
+                                                <p> Each purchase of Stack includes six months of free support and lifetime free content and bug-fix updates. </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
             </section>
             <section class="switchable imagebg height-70 text-center" data-overlay="0">
                 <div class="background-image-holder background--center">
-	                <img alt="background" src="img/producten/producten.jpg">
-	            </div>
-            </section>         
-	            
+                    <img alt="background" src="img/producten/producten.jpg">
+                </div>
+            </section>  
 	        <!--    
                 <div class="container">
                     <div class="row">

@@ -10,6 +10,7 @@
 
         <div class="main-container">
 
+
             <section class="cover height-80 imagebg text-left">
                <div class="background-image-holder background--bottom">
 	                <img itemprop="photo" alt="kleinscharig-background" src="img/kleinscharig-kapsalon-amersfoort-copper.jpg">
@@ -17,7 +18,7 @@
                 <div class="container pos-vertical-center">
                     <div class="row">
                         <div class="col-sm-5 col-xs-7">
-                            <h1>Kapper in Amersfoort</h1>
+                            <h1>Kapsalon in Amersfoort</h1>
                             <p class="lead">Vakwerk, persoonlijk en lekkere koffie. </p>
                             <a class="btn btn--primary type--uppercase" href="/afspraak">Maak een afspraak</a><br><br>
                         </div>
