@@ -32,7 +32,7 @@
 		                                </tr>
 	                                    <tr>
 		                                    <td class="text-right">Donderdag</td> 
-		                                    <td class="text-left">09:15 - 21:00</td>
+		                                    <td class="text-left">09:00 - 21:00</td>
 		                                </tr>
 	                                    <tr>
 		                                    <td class="text-right">Vrijdag</td> 
