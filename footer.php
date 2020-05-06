@@ -1,4 +1,5 @@
         <footer class="footer-7 text-center-xs  ">
+        	
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-4">

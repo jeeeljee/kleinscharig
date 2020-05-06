@@ -200,51 +200,54 @@
         <div class="main-container">
             <section class="imageblock switchable feature-large">
                 <div class="imageblock__content col-md-4 col-sm-3 pos-right">
-                    <div class="background-image-holder"> <img alt="image" src="img/kleinscharig-coronavirus-min.jpg"> </div>
+                    <div class="background-image-holder"> <img alt="image" src="img/coronavirus-update-min.jpg"> </div>
                 </div>
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7 col-sm-8">
-                            <h2>Wat we met elkaar kunnen doen</h2>
-                            <p class="lead"> 
-                                <sup style="color:#c75146;"><?php echo "Vandaag " . date("d/m/Y") . "<br>";?></sup> We brengen je graag op de hoogte van welke maatregelen wij extra nemen wat betreft het Coronavirus. Hierbij volgen wij het <a href="https://www.rijksoverheid.nl/actueel/nieuws/2020/03/12/nieuwe-maatregelen-tegen-verspreiding-coronavirus-in-nederland" target="_blank">RIVM</a>. 
-                            </p> 
-                            <div class="feature-large__group">
-                                <div class="row">
-                                    <div class="col-sm-6">
-                                        <div class="feature feature-6"> <i class="icon color--primary icon-First-Aid icon--sm"></i>
-                                            <h5>Gezondheidsklachten</h5>
-                                            <p> Heb je verschijnselen die wijzen op het Coronavirus dan vragen we je de afspraak af te bellen op <a class="inner-link" href="tel:+31337851431" rel="noreferrer"><span itemprop="telephone">+31 33 785 14 31</span></a>. </p>
-                                        </div>
-                                    </div><div class="col-sm-6">
-                                        <div class="feature feature-6"> <i class="icon color--primary icon-Credit-Card icon--sm"></i>
-                                            <h5>Pinnen graag</h5>
-                                            <p> Waar mogelijk graag pinnen. Dan hoeven we geen contant geld aan te nemen. </p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <div class="feature feature-6"> <i class="icon color--primary icon-Claps icon--sm"></i>
-                                            <h5>Geen handen schudden</h5>
-                                            <p> We schudden tijdelijk geen handen bij binnenkomst en vertrek. </p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <div class="feature feature-6"> <i class="icon color--primary icon-Bucket icon--sm"></i>
-                                            <h5>Extra hygiëne</h5>
-                                            <p> Naast de normale hygiënemaatregelen zullen wij na elke knipbeurt de stoelen extra schoonmaken. Ook zullen we extra aandacht besteden aan de deurklinken en pinautomaat. </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cta text-center">
-                                <p>&nbsp;</p>
-                                <a class="btn btn--primary btn--lg type--uppercase" href="/afspraak"> <span class="btn__text">Maak een afspraak</span> </a>
-                            </div>
-                        </div>
+                            <sup style="color:#c75146;"><!--<?php echo "Vandaag " . date("d/m/Y") . "<br>";?>-->Update: 22 maart 2020 | 22:54</sup>
+                            <h2>  </h2>
+                            <p><br>Beste klant, </p>
+
+                            <p>Zoals je misschien al hebt meegekregen waren we de afgelopen week gesloten. Gisteren heeft het kabinet in samenspraak met het RIVM weer <a href="https://vernieuwd.dvhn.nl/binnenland/Kappers-mogen-blijven-knippen-als-zij-zich-aan-voorwaarden-houden-25485119.html?harvest_referrer=https%3A%2F%2Fwww.dvhn.nl%2Fbinnenland%2FKappers-mogen-blijven-knippen-als-zij-zich-aan-voorwaarden-houden-25485119.html" target="_blank">bevestigd</a> dat de deuren van kapsalons geopend kunnen blijven. Via deze weg wil ik je dan ook laten weten dat we <b>vanaf maandag 23 maart</b> weer zijn <b>geopend</b>, maar wel met de nodige extra maatregelen.</p> 
+
+<p>In de kapsalon zullen we:
+<ul>
+    <li>- met maximaal 2 mensen op de nodige afstand van elkaar aan het werk zijn;</li>
+    <li>- meer tijd plannen rondom de afspraken, zodat we extra aandacht hebben voor opruimen, schoonmaken en het desinfecteren van materialen;</li>
+<li>- zorgen dat na elke afspraak onze handen schoon zijn gewassen voor de volgende afspraak;</li>
+<li>- zorgen dat er twee plekken zijn waar mensen kunnen wachten zodat ook in de wachtruimte de nodige afstand gehouden kan worden.</li>
+</ul>
+</p>
+
+<p>We gaan aan de slag met een minimale bezetting. Hierdoor hebben we minder capaciteit en kan het zijn dat we je bellen om je afspraak te verplaatsen. Ik hoop op je begrip hiervoor. </p>
+
+<p>Van onze kant ook alle begrip voor mensen die een afspraak hebben gemaakt, maar besluiten zich hier toch niet prettig of goed bij te voelen. Zou je de afspraak dan tijdig af willen bellen of mailen?</p>
+
+<p>Verder wil ik je vragen:
+<ul>
+    <li><b>- Kom met zo min mogelijk mensen naar je afspraak;</li>
+<li>- Betaal met de pin;</li>
+<li>- Voel je je niet goed? Bel dan je afspraak af.</b></li>
+</ul></p>
+<p>We bekijken de situatie per dag.</p>
+
+<p>Hartelijke groet,<br>
+Barbara </p>
+
+                            <p>&nbsp;</p>
+                            <p>&nbsp;</p>
+                            <p><b>Ben je nog niet aangemeld voor de nieuwsbrief en wil je wel op de hoogte blijven van de laatste ontwikkelingen? Klik dan hieronder om je aan te melden.</b> </p>
+                            <p>
+                                <a class="btn btn--primary type--uppercase" href="https://eepurl.com/df-zNv" target="_blank"> <span class="btn__text">Aanmelden nieuwsbrief</span> </a>
+                            </p>                       
+
+
                     </div>
                 </div>
             </section>
         </div>
+
         <script src="js/jquery-3.1.1.min.js"></script>
         <script src="js/parallax.js"></script>
         <script src="js/smooth-scroll.min.js"></script>
