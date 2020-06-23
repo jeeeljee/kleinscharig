@@ -80,16 +80,16 @@
                         <div class="col-sm-6">
                             <div class="feature feature-5 boxed boxed--lg boxed--border"> <i class="icon icon-Clock icon--md"></i>
                                 <div class="feature__body">
-                                    <h3>Jouw werkweek</h3>
-                                    <p> Twee, drie of liever vier dagen? Part-time of full-time. Daar komen we samen wel uit.  </p> 
+                                    <h3>Part-time werkweek</h3>
+                                    <p> Twee of liever drie dagen? Daar komen we samen wel uit. </p> 
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="feature feature-5 boxed boxed--lg boxed--border"> <i class="icon icon-Laughing icon--md"></i>
                                 <div class="feature__body">
-                                    <h3>Één avond, geen zaterdag</h3>
-                                    <p> De avonden in de salon zijn gezellig, die wil je niet missen. Zaterdag heb je vrij.  </p> 
+                                    <h3> Avonden en de zaterdag </h3>
+                                    <p> De avonden in de salon zijn gezellig, die wil je niet missen. De zaterdag is optioneel. </p> 
                                 </div>
                             </div>
                         </div>

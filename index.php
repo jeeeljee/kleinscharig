@@ -20,7 +20,7 @@
                         <div class="col-sm-5 col-xs-8">
                             <h1>Kapsalon in Amersfoort</h1>
                             <p class="lead">Vakwerk, persoonlijk en lekkere koffie. </p>
-                            <p><a class="btn btn--primary type--uppercase" href="/afspraak">Maak een afspraak</a>&nbsp;&nbsp; <a href="/cadeaubon" style="color: black;font-weight:400;text-decoration: underline;"></p>
+                            <p><a class="btn btn--primary type--uppercase" href="/afspraak">Maak een afspraak</a>
                         </div>
                     </div>
                 </div>

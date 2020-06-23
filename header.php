@@ -94,13 +94,6 @@
 
     </head>
     <body data-smooth-scroll-offset="77">
-              <section class="text-center cta cta-4 space--xxs bg--secondary">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12"> <span class="label label--inline">CORONAVIRUS</span> <span>De kapsalon is voorlopig gesloten.</span> </div>
-                    </div>
-                </div>
-            </section>
 
 	    <a id="start"></a>
         <div class="nav-container">

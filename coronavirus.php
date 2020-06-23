@@ -205,43 +205,26 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7 col-sm-8">
-                            <sup style="color:#c75146;"><!--<?php echo "Vandaag " . date("d/m/Y") . "<br>";?>-->Update: 22 maart 2020 | 22:54</sup>
+                            <sup style="color:#c75146;"><!--<?php echo "Vandaag " . date("d/m/Y") . "<br>";?>-->Update: 9 mei 2020 | 22:55</sup>
                             <h2>  </h2>
                             <p><br>Beste klant, </p>
 
-                            <p>Zoals je misschien al hebt meegekregen waren we de afgelopen week gesloten. Gisteren heeft het kabinet in samenspraak met het RIVM weer <a href="https://vernieuwd.dvhn.nl/binnenland/Kappers-mogen-blijven-knippen-als-zij-zich-aan-voorwaarden-houden-25485119.html?harvest_referrer=https%3A%2F%2Fwww.dvhn.nl%2Fbinnenland%2FKappers-mogen-blijven-knippen-als-zij-zich-aan-voorwaarden-houden-25485119.html" target="_blank">bevestigd</a> dat de deuren van kapsalons geopend kunnen blijven. Via deze weg wil ik je dan ook laten weten dat we <b>vanaf maandag 23 maart</b> weer zijn <b>geopend</b>, maar wel met de nodige extra maatregelen.</p> 
+                            <p>Hieronder een aantal dingen om rekening mee te houden wanneer je op je afspraak komt. Bekijk ook het protocol via <a href="https://kleinscharig.nl/pdf/protocol-klanten.pdf" target="_blank">deze link</a>.
+                                    <li>Blijf thuis als jij of iemand in jouw huis COVID-19 symptomen heeft of heeft gehad in de afgelopen 14 dagen.</li>
+                                    <li>Kom zoveel mogelijk alleen.</li>
+                                    <li>Kom niet te vroeg en niet te laat. Graag vlak voor de tijd van je afspraak.</li>
+                                    <li>Als het mooi weer is vragen we je buiten te wachten. Er staat een bankje buiten. </li>
+                                    <li>Voordat je binnenkomt vragen we je je handen te desinfecteren. </li>
+                                    <li>Voor de ventilatie zetten wij de deuren zoveel mogelijk open. Heb je het snel koud, neem een vest mee.</li>
+                                    <li>Er zijn geen magazines beschikbaar, dus neem zelf iets te lezen mee.</li>
+                                    <li>Betaal zoveel mogelijk contactloos.</li>
+                                    <li>Probeer niet langer in de salon te blijven dan nodig is.</li>
+                                    <li>Vergeet niet wanneer je weer naar buiten loopt dat je haar eindelijk weer goed zit. Geniet ervan!</li>
+                                </ul>
+                            </p>
 
-<p>In de kapsalon zullen we:
-<ul>
-    <li>- met maximaal 2 mensen op de nodige afstand van elkaar aan het werk zijn;</li>
-    <li>- meer tijd plannen rondom de afspraken, zodat we extra aandacht hebben voor opruimen, schoonmaken en het desinfecteren van materialen;</li>
-<li>- zorgen dat na elke afspraak onze handen schoon zijn gewassen voor de volgende afspraak;</li>
-<li>- zorgen dat er twee plekken zijn waar mensen kunnen wachten zodat ook in de wachtruimte de nodige afstand gehouden kan worden.</li>
-</ul>
-</p>
-
-<p>We gaan aan de slag met een minimale bezetting. Hierdoor hebben we minder capaciteit en kan het zijn dat we je bellen om je afspraak te verplaatsen. Ik hoop op je begrip hiervoor. </p>
-
-<p>Van onze kant ook alle begrip voor mensen die een afspraak hebben gemaakt, maar besluiten zich hier toch niet prettig of goed bij te voelen. Zou je de afspraak dan tijdig af willen bellen of mailen?</p>
-
-<p>Verder wil ik je vragen:
-<ul>
-    <li><b>- Kom met zo min mogelijk mensen naar je afspraak;</li>
-<li>- Betaal met de pin;</li>
-<li>- Voel je je niet goed? Bel dan je afspraak af.</b></li>
-</ul></p>
-<p>We bekijken de situatie per dag.</p>
-
-<p>Hartelijke groet,<br>
-Barbara </p>
-
-                            <p>&nbsp;</p>
-                            <p>&nbsp;</p>
-                            <p><b>Ben je nog niet aangemeld voor de nieuwsbrief en wil je wel op de hoogte blijven van de laatste ontwikkelingen? Klik dan hieronder om je aan te melden.</b> </p>
-                            <p>
-                                <a class="btn btn--primary type--uppercase" href="https://eepurl.com/df-zNv" target="_blank"> <span class="btn__text">Aanmelden nieuwsbrief</span> </a>
-                            </p>                       
-
+                            <p>Hartelijke groet,<br>
+                            Team Kleinscharig </p>
 
                     </div>
                 </div>
